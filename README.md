@@ -2,7 +2,7 @@
 - 👀 I’m interested in informatic Sciences
 - 🌱 I’m currently learning PHP and JavaScript
 - 💞️ I’m looking to collaborate on professionnal projects
-- 📫 Reach me by email : albanokoby225@gmail.com or whatsApp Pro: 05 66 59 67 41 or WhatsApp Perso: 01 51 56 44 38
+- 📫 Reach me by email : albanokoby225@gmail.com or tel and whatsApp Pro:225 05 66 59 67 41 or tel or WhatsApp Perso:225 01 51 56 44 38
 - webesite perso : HTTPS://hello-bim.herokuapp.com 
 
 Thanks.
