@@ -9,7 +9,7 @@
     --banner-color: white;
     --header-bg-color: none;
     --wave-color: #ebb217;
-    --aleatoire-title-color: black;
+    --section-title-color: black;
     --footer-bg-color: #05131a;
     --footer-form-bg: white;
     --footer-form: rgb(17, 17, 17);
@@ -93,8 +93,10 @@ header .header-logo {
     margin-left: 66%;
 }
 
-.aleatoire__title {
-    color: var(--aleatoire-title-color);
+.aleatoire__title, .section-title {
+    color: var(--section-title-color);
+    display: flex;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
 
