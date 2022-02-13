@@ -160,7 +160,7 @@ header .header-logo {
     margin-top: 1%;
 }
 
-.card-wrapper-plat {
+.card-wrapper {
     list-style: none;
     padding: 0;
     margin: 0;
@@ -170,15 +170,17 @@ header .header-logo {
     margin-left: 1%;
     margin-right: 1%;
 }
-
-.card-plat {
+.wrapper-garba {
+    grid-gap: .2rem;
+}
+.card {
     background-color: #fff;
     border-radius: 0.5rem;
-    box-shadow: 0.05rem 0.1rem 0.9rem 0.5rem rgb(163, 163, 155);
     padding-bottom: 1rem;
     overflow:hidden;
-
-
+}
+.aleatoire {
+    box-shadow: 0.05rem 0.1rem 0.9rem 0.5rem rgb(163, 163, 155);
 }
 .img-box {
     overflow: hidden;
@@ -220,11 +222,11 @@ header .header-logo {
     text-align: center;
 }
 
-.card-plat>:last-child {
+.card>:last-child {
     margin-bottom: 0;
 }
 
-.card-plat a:hover {
+.card a:hover {
     text-decoration: none;
 }
 
