@@ -6,9 +6,9 @@ Developpeur Web, Etudiant bidouilleur en numérique et technologies.
 
 
 <a href="https://github.com/alban-okoby/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alban-okoby&repo=github-readme-stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alban-okoby&count_private=true&theme=highcontrast&show_icons=true)](https://github.com/anuraghazra/github-readme-sta />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/alban-okoby">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alban-okoby&count_private=true&theme=highcontrast&show_icons=true&repo=convoychat" />
 </a>
 [![Les Stats GitHub de Alban](https://github-readme-stats.vercel.app/api/top-langs/?username=alban-okoby&count_private=true&theme=highcontrast&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
