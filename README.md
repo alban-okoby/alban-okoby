@@ -4,8 +4,8 @@ Developpeur Web, passioné de nouvelles approches numériques, je suis Etudiant 
 
 "Une ligne de code pour un monde encore plus meilleur !"
 
-<a href="https://github.com/alban-okoby/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=alban-okoby&theme=highcontrast&show_icons=true&count_private=true&show_owner=true" />
+<a href="https://github.com/alban-okoby/alban-okoby">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=alban-okoby&theme=highcontrast&show_icons=true&count_private=true&show_owner=true&hide=scss" />
 </a>
 <a href="https://github.com/alban-okoby/alban-okoby">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alban-okoby&theme=highcontrast&show_icons=true" />
@@ -16,23 +16,19 @@ Developpeur Web, passioné de nouvelles approches numériques, je suis Etudiant 
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alban-okoby&repo=cidabali&theme=dark" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/alban-okoby/reactJs">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alban-okoby&repo=reactJs" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/alban-okoby/portfolio_perso">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alban-okoby&repo=portfolio_perso&theme=dark" />
 </a>
+<a href="https://github.com/alban-okoby/moukiprojet">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alban-okoby&repo=portfolio_perso&theme=dracula" />
+</a>
+<a href="https://github.com/alban-okoby/birthday">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alban-okoby&repo=birthday" />
+</a>
 
-
-[![Carte ReadMe](https://github-readme-stats.vercel.app/api/pin/?username=alban-okoby&repo=cidabali)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Carte ReadMe](https://github-readme-stats.vercel.app/api/pin/?username=alban-okoby&repo=reactJs)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Carte ReadMe](https://github-readme-stats.vercel.app/api/pin/?username=alban-okoby&repo=small-cauldron)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Carte ReadMe](https://github-readme-stats.vercel.app/api/pin/?username=alban-okoby&repo=portfolio_perso)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Carte ReadMe](https://github-readme-stats.vercel.app/api/pin/?username=alban-okoby&repo=moukiprojet)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Carte ReadMe](https://github-readme-stats.vercel.app/api/pin/?username=alban-okoby&repo=reactNative)](https://github.com/anuraghazra/github-readme-stats)
 
