@@ -10,11 +10,9 @@ Developpeur Web, Etudiant bidouilleur en numérique et technologies.
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alban-okoby&theme=highcontrast&show_icons=true" />
 </a>
-
-[![Les Stats GitHub de AlbanO](https://github-readme-stats.vercel.app/api?username=alban-okoby&theme=highcontrast&show_icons=true&count_private=true&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
-
-
-[![Les Stats GitHub de AlbanO](https://github-readme-stats.vercel.app/api/top-langs/?username=alban-okoby&theme=highcontrast&show_icons=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alban-okoby&repo=small-cauldrontheme=dark" />
+</a>
 
 [![Carte ReadMe](https://github-readme-stats.vercel.app/api/pin/?username=alban-okoby&repo=cidabali)](https://github.com/anuraghazra/github-readme-stats)
 
