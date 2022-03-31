@@ -11,7 +11,7 @@ Developpeur Web, Etudiant bidouilleur en numérique et technologies.
 
 [![Les Stats GitHub de AlbanO](https://github-readme-stats.vercel.app/api?username=alban-okoby&theme=highcontrast&show_icons=true&repo=github-readme-stats&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Carte ReadMe](https://github-readme-stats.vercel.app/api/pin/?username=alban-okoby&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![Carte ReadMe](https://github-readme-stats.vercel.app/api/pin/?username=alban-okoby&repo=onlineshool&repo=small-cauldron&repo=reactNative)](https://github.com/anuraghazra/github-readme-stats)
 [![Carte ReadMe](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
 Aller contact-moi si t'as un projet ou de nouvelles idées, j'adore relever des défis, pas toi ?? Je crois fortement qu'on apprend pas en regardant les autres coder, il faut s'y mettre toute suite !
