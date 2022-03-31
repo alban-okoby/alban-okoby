@@ -11,8 +11,8 @@ Developpeur Web, Etudiant bidouilleur en numérique et technologies.
 
 [![Les Stats GitHub de AlbanO](https://github-readme-stats.vercel.app/api?username=alban-okoby&theme=highcontrast&show_icons=true&repo=github-readme-stats&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Carte ReadMe](https://github-readme-stats.vercel.app/api/pin/?username=alban-okoby&repo=onlineshool&repo=small-cauldron&repo=reactNative)](https://github.com/anuraghazra/github-readme-stats)
-[![Carte ReadMe](https://github-readme-stats.vercel.app/api/pin/?username=alban-okoby&repo=onlineshool)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Carte ReadMe](https://github-readme-stats.vercel.app/api/pin/?username=alban-okoby&repo=onlineschool)](https://github.com/anuraghazra/github-readme-stats)
 [![Carte ReadMe](https://github-readme-stats.vercel.app/api/pin/?username=alban-okoby&repo=reactJs)](https://github.com/anuraghazra/github-readme-stats)
 [![Carte ReadMe](https://github-readme-stats.vercel.app/api/pin/?username=alban-okoby&repo=restaut)](https://github.com/anuraghazra/github-readme-stats)
 
