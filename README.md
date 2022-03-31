@@ -7,10 +7,10 @@ Developpeur Web, passioné de nouvelles approches numériques, je suis Etudiant 
 <a href="https://github.com/alban-okoby/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=alban-okoby&theme=highcontrast&show_icons=true&count_private=true&show_owner=true" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/alban-okoby/alban-okoby">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alban-okoby&theme=highcontrast&show_icons=true" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/alban-okoby/small-cauldron">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alban-okoby&repo=small-cauldron" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
