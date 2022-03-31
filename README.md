@@ -22,11 +22,8 @@ Developpeur Web, passioné de nouvelles approches numériques, je suis Etudiant 
 <a href="https://github.com/alban-okoby/portfolio_perso">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alban-okoby&repo=portfolio_perso&theme=dark" />
 </a>
-<a href="https://github.com/alban-okoby/moukiprojet">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alban-okoby&repo=moukiprojet" />
-</a>
 <a href="https://github.com/alban-okoby/birthday">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alban-okoby&repo=birthday&theme=onedark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alban-okoby&repo=birthday" />
 </a>
 <a href="https://github.com/alban-okoby/reactNative">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alban-okoby&repo=reactNative&theme=dark" />
