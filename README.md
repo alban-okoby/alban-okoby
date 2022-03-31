@@ -11,7 +11,7 @@ Developpeur Web, Etudiant bidouilleur en numérique et technologies.
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alban-okoby&theme=highcontrast&show_icons=true" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alban-okoby&repo=small-cauldrontheme=dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alban-okoby&repo=small-cauldron&theme=dark" />
 </a>
 
 [![Carte ReadMe](https://github-readme-stats.vercel.app/api/pin/?username=alban-okoby&repo=cidabali)](https://github.com/anuraghazra/github-readme-stats)
