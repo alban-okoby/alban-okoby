@@ -33,6 +33,9 @@ Developpeur Web, passioné de nouvelles approches numériques, je suis Etudiant 
 </a>
 
 M'envoyer un mail à unmailjuste@gmail.com 
-ou sur whatsapp au 2250566596741
+ou sur whatssap
+<a href="https://wa.me/2250566596741/">
+  <img align="center" src="https://wa.me/2250566596741" />
+</a>
 
 Aller contact-moi si t'as un projet ou de nouvelles idées, j'adore relever des défis, pas toi ?? Je crois fortement qu'on apprend pas en regardant les autres coder, il faut s'y mettre et toute suite !
