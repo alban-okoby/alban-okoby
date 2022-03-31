@@ -4,6 +4,13 @@ Developpeur Web, Etudiant bidouilleur en numérique et technologies.
 
 "Une ligne de code pour un monde encore plus meilleur !"
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+</a>
+
 [![Les Stats GitHub de AlbanO](https://github-readme-stats.vercel.app/api?username=alban-okoby&theme=highcontrast&show_icons=true&count_private=true&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
