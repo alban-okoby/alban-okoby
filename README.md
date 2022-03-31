@@ -5,10 +5,10 @@ Developpeur Web, passioné de nouvelles approches numériques, je suis Etudiant 
 "Une ligne de code pour un monde encore plus meilleur !"
 
 <a href="https://github.com/alban-okoby/alban-okoby">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=alban-okoby&theme=highcontrast&show_icons=true&count_private=true&show_owner=true&hide=scss" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=alban-okoby&theme=highcontrast&show_icons=true&count_private=true&show_owner=true" />
 </a>
 <a href="https://github.com/alban-okoby/alban-okoby">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alban-okoby&theme=highcontrast&show_icons=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alban-okoby&theme=highcontrast&show_icons=true&hide=scss" />
 </a>
 <a href="https://github.com/alban-okoby/small-cauldron">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alban-okoby&repo=small-cauldron" />
@@ -23,17 +23,17 @@ Developpeur Web, passioné de nouvelles approches numériques, je suis Etudiant 
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alban-okoby&repo=portfolio_perso&theme=dark" />
 </a>
 <a href="https://github.com/alban-okoby/moukiprojet">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alban-okoby&repo=moukiprojet&theme=synthwave" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alban-okoby&repo=moukiprojet" />
 </a>
 <a href="https://github.com/alban-okoby/birthday">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alban-okoby&repo=birthday" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alban-okoby&repo=birthday&theme=onedark" />
 </a>
 <a href="https://github.com/alban-okoby/reactNative">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alban-okoby&repo=reactNativetheme=dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alban-okoby&repo=reactNative&theme=dark" />
 </a>
 
 M'envoyer un mail à unmailjuste@gmail.com 
-ou sur whatssap
+ou sur WhatSapp
 https://wa.me/message/MQN56H3G3WE5M1
 
 Aller contact-moi si t'as un projet ou de nouvelles idées, j'adore relever des défis, pas toi ?? Je crois fortement qu'on apprend pas en regardant les autres coder, il faut s'y mettre et toute suite !
