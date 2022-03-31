@@ -7,7 +7,7 @@ Developpeur Web, Etudiant bidouilleur en numérique et technologies.
 [![Les Stats GitHub de AlbanO](https://github-readme-stats.vercel.app/api?username=alban-okoby&theme=highcontrast&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[![Les Stats GitHub de AlbanO](https://github-readme-stats.vercel.app/api/top-langs/?username=alban-okoby&theme=highcontrast&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Les Stats GitHub de AlbanO](https://github-readme-stats.vercel.app/api/top-langs/?username=alban-okoby&theme=highcontrast&show_icons=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 [![Carte ReadMe](https://github-readme-stats.vercel.app/api/pin/?username=alban-okoby&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
