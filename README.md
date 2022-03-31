@@ -1,6 +1,6 @@
 #Alban Okoby
 
-Developpeur Web, Etudiant bidouilleur en numérique et technologies.
+Developpeur Web, passioné de nouvelles approches numériques, je suis Etudiant bidouilleur en numérique et technologies doté d'une Licence dans ce domaine.
 
 "Une ligne de code pour un monde encore plus meilleur !"
 
@@ -11,8 +11,18 @@ Developpeur Web, Etudiant bidouilleur en numérique et technologies.
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alban-okoby&theme=highcontrast&show_icons=true" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alban-okoby&repo=small-cauldron&theme=dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alban-okoby&repo=small-cauldron" />
 </a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alban-okoby&repo=cidabali&theme=dark" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alban-okoby&repo=reactJs" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alban-okoby&repo=portfolio_perso&theme=dark" />
+</a>
+
 
 [![Carte ReadMe](https://github-readme-stats.vercel.app/api/pin/?username=alban-okoby&repo=cidabali)](https://github.com/anuraghazra/github-readme-stats)
 
