@@ -1,6 +1,6 @@
 #Alban Okoby
 
-Developpeur Web, passioné de nouvelles approches numériques, je suis Etudiant bidouilleur en numérique et technologies doté d'une Licence dans ce domaine.
+Developpeur Web, passioné de nouvelles approches numériques, je suis Etudiant bidouilleur en numérique et technologies doté d'un Bac+3 dans ce domaine.
 
 "Une ligne de code pour un monde encore plus meilleur !"
 
@@ -23,16 +23,16 @@ Developpeur Web, passioné de nouvelles approches numériques, je suis Etudiant 
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alban-okoby&repo=portfolio_perso&theme=dark" />
 </a>
 <a href="https://github.com/alban-okoby/moukiprojet">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alban-okoby&repo=portfolio_perso&theme=dracula" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alban-okoby&repo=moukiprojet&theme=radical" />
 </a>
 <a href="https://github.com/alban-okoby/birthday">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alban-okoby&repo=birthday" />
 </a>
+<a href="https://github.com/alban-okoby/reactNative">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alban-okoby&repo=reactNative" />
+</a>
 
-
-[![Carte ReadMe](https://github-readme-stats.vercel.app/api/pin/?username=alban-okoby&repo=reactNative)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Carte ReadMe](https://github-readme-stats.vercel.app/api/pin/?username=alban-okoby&repo=birthday)](https://github.com/anuraghazra/github-readme-stats)
-
+M'envoyer un mail à unmailjuste@gmail.com 
+ou sur whatsapp au 2250566596741
 
 Aller contact-moi si t'as un projet ou de nouvelles idées, j'adore relever des défis, pas toi ?? Je crois fortement qu'on apprend pas en regardant les autres coder, il faut s'y mettre toute suite !
