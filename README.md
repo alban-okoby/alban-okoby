@@ -28,6 +28,9 @@ Developpeur Web, passioné de nouvelles approches numériques, je suis Etudiant 
 <a href="https://github.com/alban-okoby/reactNative">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alban-okoby&repo=reactNative&theme=dark" />
 </a>
+<a href="https://github.com/alban-okoby/mean-crud-app">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alban-okoby&repo=mean-crud-app" />
+</a>
 
 M'envoyer un mail à unmailjuste@gmail.com 
 ou sur WhatSapp
