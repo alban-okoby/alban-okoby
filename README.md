@@ -13,11 +13,11 @@ Developpeur Web, passioné de nouvelles approches numériques, je suis Etudiant 
 <a href="https://github.com/alban-okoby/small-cauldron">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alban-okoby&repo=small-cauldron" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alban-okoby&repo=cidabali&theme=dark" />
-</a>
-<a href="https://github.com/alban-okoby/reactJs">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alban-okoby&repo=reactJs" />
+<a href="https://github.com/alban-okoby/mean-crud-app">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alban-okoby&repo=mean-crud-app&theme=dark" />
+ </a> 
+<a href="https://github.com/alban-okoby/cidabali">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alban-okoby&repo=cidabali" />
 </a>
 <a href="https://github.com/alban-okoby/portfolio_perso">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alban-okoby&repo=portfolio_perso&theme=dark" />
@@ -28,9 +28,7 @@ Developpeur Web, passioné de nouvelles approches numériques, je suis Etudiant 
 <a href="https://github.com/alban-okoby/reactNative">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alban-okoby&repo=reactNative&theme=dark" />
 </a>
-<a href="https://github.com/alban-okoby/mean-crud-app">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alban-okoby&repo=mean-crud-app" />
-</a>
+
 
 M'envoyer un mail à unmailjuste@gmail.com 
 ou sur WhatSapp
