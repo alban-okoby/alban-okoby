@@ -29,7 +29,7 @@ Developpeur Web, passioné de nouvelles approches numériques, je suis Etudiant 
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alban-okoby&repo=reactNative&theme=dark" />
 </a>
 <a href="https://github.com/alban-okoby/chat-app">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alban-okoby&repo=chat-app&theme=dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alban-okoby&repo=chat-app" />
 </a>
 
 
