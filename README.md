@@ -34,8 +34,7 @@ Developpeur Web, passioné de nouvelles approches numériques, je suis Etudiant 
 </a>
 
 
-M'envoyer un mail à unmailjuste@gmail.com 
-ou sur WhatSapp
+Me conatcter par mail à unmailjuste@gmail.com 
+ou sur WhatsApp
 https://wa.me/message/MQN56H3G3WE5M1
 
-Aller contact-moi si t'as un projet ou de nouvelles idées, j'adore relever des défis, pas toi ?? Je crois fortement qu'on apprend pas en regardant les autres coder, il faut s'y mettre et toute suite !
