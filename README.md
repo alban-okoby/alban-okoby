@@ -1,7 +1,7 @@
 
 Hello je suis Alban Okoby
 
-Developpeur Web, passioné de nouvelles approches numériques, je suis Etudiant bidouilleur en numérique et technologies.
+Developpeur Web, passioné de nouvelles approches numériques, je suis de base Etudiant bidouilleur en numérique et technologies.
 
 "Une ligne de code pour un monde encore plus meilleur !"
 
