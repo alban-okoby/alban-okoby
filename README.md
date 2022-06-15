@@ -1,7 +1,7 @@
 
 Hello je suis Alban Okoby
 
-Developpeur Web, passioné de nouvelles approches numériques, je suis de base Etudiant bidouilleur en numérique et technologies.
+Developpeur Web, passioné de nouvelles approches numériques, je suis de base Etudiant bidouilleur en science numérique et technologique. Créativité et réactivité sont mes activités.
 
 "Une ligne de code pour un monde encore plus meilleur !"
 
@@ -29,12 +29,9 @@ Developpeur Web, passioné de nouvelles approches numériques, je suis de base E
 <a href="https://github.com/alban-okoby/php_porfolio">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alban-okoby&repo=php_portfolio&theme=dark" />
 </a>
-<a href="https://github.com/alban-okoby/chat-app">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alban-okoby&repo=chat-app" />
-</a>
 
 
-Me conatcter par mail à unmailjuste@gmail.com 
-ou sur WhatsApp
+Me contacter à unmailjuste@gmail.com 
+ou sur WhatsApp à
 https://wa.me/message/MQN56H3G3WE5M1
 
