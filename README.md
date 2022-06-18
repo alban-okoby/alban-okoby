@@ -1,7 +1,7 @@
 
 Hello je suis Alban Okoby
 
-Developpeur Web, passioné de nouvelles approches numériques, je suis de base Etudiant bidouilleur en science numérique et technologique. Créativité et réactivité sont mes activités.
+Developpeur Web, passioné de nouvelles approches numériques, je suis de base Etudiant en science numérique et technologique. Créativité et réactivité sont mes activités.
 
 "Une ligne de code pour un monde encore plus meilleur !"
 
