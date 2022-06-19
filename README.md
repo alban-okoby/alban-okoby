@@ -1,7 +1,7 @@
 
 Hello je suis Alban Okoby
 
-Developpeur Web, passioné de nouvelles approches numériques, je suis de base Etudiant en science numérique et technologique, pour l'instant un niveau Bac+3. j'adore la CCR (Curiosité, Créativité et Réactivité).
+Developpeur Web, passioné de nouvelles approches numériques, je suis de base Etudiant en science numérique et technologique, pour l'instant un niveau Bac+3. j'adore la CRAC (Curiosité, Réactivité, Adaptabilité et Créativité) dans l'optique d'être un super bon crack.
 
 "Une ligne de code pour un monde encore plus meilleur !"
 
