@@ -26,8 +26,8 @@ Developpeur Web, passioné de nouvelles approches numériques, je suis de base E
 <a href="https://github.com/alban-okoby/portfoliotp">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alban-okoby&repo=portfoliotp" />
 </a>
-<a href="https://github.com/alban-okoby/php_porfolio">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alban-okoby&repo=php_portfolio&theme=dark" />
+<a href="https://github.com/alban-okoby/e-cv">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alban-okoby&repo=e-cv&theme=dark" />
 </a>
 
 
