@@ -1,7 +1,7 @@
 
 Hello je suis Alban Okoby
 
-Developpeur Web, passioné de nouvelles approches numériques, j'adore la CRAC (Curiosité, Réactivité, Adaptabilité et Créativité) dans l'optique d'être un super bon geek crack. De base, je suis Etudiant diplômé (IT-SN) Informatique et Technologie, Science Numérique.
+Developpeur IT, passioné de nouvelles approches numériques, j'adore la CRAC (Curiosité, Réactivité, Adaptabilité et Créativité) dans l'optique d'être un super bon geek crack. De base, je suis Etudiant diplômé (IT-SN) Informatique et Technologie, Science Numérique.
 
 "Une ligne de code pour un monde encore plus meilleur !"
 
