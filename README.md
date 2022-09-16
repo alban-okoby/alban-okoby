@@ -22,8 +22,8 @@ IT developer, passionate about new digital approaches, I love CRAC (Curiosity, R
 <a href="https://github.com/alban-okoby/mean-crud-app">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alban-okoby&repo=mean-crud-app&theme=dark" />
  </a> 
-<a href="https://github.com/alban-okoby/cidabali">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alban-okoby&repo=cidabali" />
+<a href="https://github.com/alban-okoby/mimishop2">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alban-okoby&repo=mimishop2" />
 </a>
 <a href="https://github.com/alban-okoby/portfolio_perso">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alban-okoby&repo=portfolio_perso&theme=dark" />
