@@ -37,8 +37,11 @@ IT developer, passionate about new digital approaches, I love CRAC (Curiosity, R
 <a href="https://github.com/alban-okoby/employeemanager">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alban-okoby&repo=employeemanager" />
 </a>
+<a href="https://github.com/alban-okoby/employeeapp">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alban-okoby&repo=employeeapp&theme=dark" />
+</a>
 
-Me contacter à unmailjuste@gmail.com 
-ou sur WhatsApp à
+Contact me : unmailjuste@gmail.com 
+or on WhatsApp to
 https://wa.me/message/MQN56H3G3WE5M1
 
