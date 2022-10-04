@@ -5,11 +5,6 @@ Developpeur IT, passioné de nouvelles approches numériques, j'adore la CRAC (C
 
 "Une ligne de code pour un monde encore plus meilleur !"
 
-(English)
-IT developer, passionate about new digital approaches, I love CRAC (Curiosity, Responsiveness, Adaptability and Creativity). Basically, I am a Graduate Student (IT-SN) Computer Science and Technology, Digital Science.
-
-"One more line of code for an even better world!"
-
 <a href="https://github.com/alban-okoby/alban-okoby">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=alban-okoby&theme=highcontrast&show_icons=true&count_private=true&show_owner=true" />
 </a>
