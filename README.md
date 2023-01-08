@@ -1,6 +1,6 @@
 
 ### Hello je suis Alban Okoby
-Je suis un, oui un parmi des millions d’ingénieurs logiciels de la planète. Je rends le Web fluide agréable et utile. <br>
+Je suis un, oui un parmi des millions de génies logiciels de la planète. Je rends le Web fluide agréable et utile. <br>
 Developpeur IT, passioné de nouvelles approches numériques, j'adore la CRAC (Curiosité, Réactivité, Adaptabilité et Créativité). De base, diplômé (IT-SN) Informatique et Technologie, Science Numérique.
 
 "Une ligne de code pour un monde encore plus meilleur !"
