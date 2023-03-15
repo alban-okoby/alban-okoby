@@ -1,9 +1,9 @@
 
-### Hello  je suis Alban Okoby
-Je suis un, oui un parmi des millions de génies logiciels de la planète. Je rends le Web fluide agréable et utile. <br>
-De base, diplômé (IT-SN) Informatique et Technologie, Science Numérique.
+### Hello, welcome to the git of Alban Okoby
+I am one, yes one among millions of software geniuses on the planet. I make the smooth web, enjoyable, fast and useful. <br>
+A graduate B.Sc (IT-SN) Computer Science and Technology.
 
-"Une ligne de code pour un monde encore plus meilleur !"
+"A line of code for an even better world  !"
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alban-okoby&label=Profile%20views&color=0e75b6&style=flat" alt="Alban Okoby" /> </p>
 
 <h3 align="left">Languages and Tools:</h3>
