@@ -23,8 +23,8 @@ I am one, yes one among millions of software geniuses on the planet. I make the 
 <a href="https://github.com/alban-okoby/alban-okoby">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alban-okoby&theme=highcontrast&show_icons=true&hide=scss" />
 </a>
-<a href="https://github.com/alban-okoby/small-cauldron">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alban-okoby&repo=small-cauldron" />
+<a href="https://github.com/alban-okoby/java_from_zero_to_hero">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alban-okoby&repo=java_from_zero_to_hero" />
 </a>
 <a href="https://github.com/alban-okoby/mean-crud-app">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alban-okoby&repo=mean-crud-app&theme=dark" />
