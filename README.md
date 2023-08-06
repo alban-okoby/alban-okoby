@@ -50,5 +50,5 @@ I am one, yes one among millions of software geniuses on the planet. I make the 
 
 
 Contact me on WhatsApp
-https://wa.me/message/MQN56H3G3WE5M1
+https://wa.me/2250566596741
 
