@@ -26,11 +26,12 @@ I am one, yes one among millions of software geniuses on the planet. I make the 
 <a href="https://github.com/alban-okoby/java_from_zero_to_hero">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alban-okoby&repo=java_from_zero_to_hero" />
 </a>
-<a href="https://github.com/alban-okoby/mean-crud-app">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alban-okoby&repo=mean-crud-app&theme=dark" />
+<a href="https://github.com/alban-okoby/learn-all-things-you-need">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alban-okoby&repo=learn-all-things-you-need" />
  </a> 
+ 
 <a href="https://github.com/alban-okoby/mimishop2">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alban-okoby&repo=mimishop2" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alban-okoby&repo=mimishop2&theme=dark" />
 </a>
 <a href="https://github.com/alban-okoby/portfolio_perso">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alban-okoby&repo=portfolio_perso&theme=dark" />
@@ -38,12 +39,15 @@ I am one, yes one among millions of software geniuses on the planet. I make the 
 <a href="https://github.com/alban-okoby/portfoliotp">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alban-okoby&repo=portfoliotp" />
 </a>
-<a href="https://github.com/alban-okoby/e-cv">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alban-okoby&repo=e-cv&theme=dark" />
-</a>
+
 <a href="https://github.com/alban-okoby/employeemanager">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alban-okoby&repo=employeemanager" />
 </a>
+
+<a href="https://github.com/alban-okoby/e-cv">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alban-okoby&repo=e-cv&theme=dark" />
+</a>
+
 <a href="https://github.com/alban-okoby/employeeapp">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alban-okoby&repo=employeeapp&theme=dark" />
 </a>
