@@ -53,6 +53,3 @@ I am one, yes one among millions of software geniuses on the planet. I make the 
 </a>
 
 
-Contact me on WhatsApp
-https://wa.me/2250566596741
-
