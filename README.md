@@ -1,6 +1,6 @@
 
 ### Hello, welcome to the git of Alban Okoby
-I am one, yes one among millions of software geniuses on the planet. I make the smooth web, enjoyable, fast and useful. <br>
+I am one among millions of software geniuses on the planet. I make the smooth web, enjoyable, fast and useful. <br>
 <!-- A graduate B.Sc (IT-SN) Computer Science and Technology. -->
 
 "A line of code for an even better world  !"
