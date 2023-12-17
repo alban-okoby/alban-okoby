@@ -43,8 +43,8 @@ I am one among millions of software geniuses on the planet. I make the smooth we
 <a href="https://github.com/alban-okoby/portfolio_perso">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alban-okoby&repo=portfolio_perso&theme=dark" />
 </a>
-<a href="https://github.com/alban-okoby/portfoliotp">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alban-okoby&repo=portfoliotp" />
+<a href="https://github.com/alban-okoby/cvskills">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alban-okoby&repo=cvskills" />
 </a>
 
 <a href="https://github.com/alban-okoby/employeemanager">
