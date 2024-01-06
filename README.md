@@ -53,7 +53,7 @@ I am one among millions of software geniuses on the planet. I make the smooth we
 </a>
 
 <!-- <a href="https://github.com/alban-okoby/employeeapp">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alban-okoby&repo=employeeapp&theme=dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alban-okoby&repo=employeeapp" />
 </a>
 -->
 
