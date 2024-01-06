@@ -1,5 +1,5 @@
 
-### Hello, welcome to the git of Alban Okoby
+### Hello, my name is Alban Okoby
 I am one among millions of software geniuses on the planet. I make the smooth web, enjoyable, fast and useful. <br>
 <!-- A graduate B.Sc (IT-SN) Computer Science and Technology. -->
 
@@ -43,9 +43,6 @@ I am one among millions of software geniuses on the planet. I make the smooth we
 <a href="https://github.com/alban-okoby/portfolio_perso">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alban-okoby&repo=portfolio_perso&theme=dark" />
 </a>
-<a href="https://github.com/alban-okoby/cvskills">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alban-okoby&repo=cvskills" />
-</a>
 
 <a href="https://github.com/alban-okoby/employeemanager">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alban-okoby&repo=employeemanager" />
@@ -55,8 +52,9 @@ I am one among millions of software geniuses on the planet. I make the smooth we
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alban-okoby&repo=e-cv&theme=dark" />
 </a>
 
-<a href="https://github.com/alban-okoby/employeeapp">
+<!-- <a href="https://github.com/alban-okoby/employeeapp">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alban-okoby&repo=employeeapp&theme=dark" />
 </a>
+-->
 
 
