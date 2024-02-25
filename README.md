@@ -48,17 +48,15 @@ I am one among millions of software geniuses on the planet. I make the smooth we
 <a href="https://github.com/alban-okoby/portfolio_perso">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alban-okoby&repo=portfolio_perso" />
 </a>
-
-<a href="https://github.com/alban-okoby/employeemanager">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alban-okoby&repo=employeemanager" />
-</a>
-
 <a href="https://github.com/alban-okoby/github_clone">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alban-okoby&repo=github_clone&theme=dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alban-okoby&repo=github_clone" />
+</a>
+<a href="https://github.com/alban-okoby/employeemanager">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alban-okoby&repo=employeemanager&theme=dark" />
 </a>
 
 <!-- <a href="https://github.com/alban-okoby/employeeapp">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alban-okoby&repo=employeeapp" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alban-okoby&repo=employeeapp&theme=dark" />
 </a>
 -->
 
