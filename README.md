@@ -30,7 +30,7 @@ I am one among millions of software geniuses on the planet. I make the smooth we
 <a href="https://github.com/alban-okoby/alban-okoby">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alban-okoby&theme=highcontrast&show_icons=true&hide=html&langs_count=8&layout=donut" />
 </a>
-<a href="https://github.com/digitalsouag/ds-java_low_level">
+<a href="https://github.com/alban-okoby/ds-java_low_level">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alban-okoby&repo=ds-java_low_level" />
 </a>
 <a href="https://github.com/alban-okoby/learn-all-things-you-need">
