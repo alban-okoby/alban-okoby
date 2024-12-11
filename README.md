@@ -25,7 +25,7 @@ I am one among millions of software geniuses on the planet. I make the smooth we
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=alban-okoby&theme=highcontrast&show_icons=true&count_private=true&show_owner=true" />
 </a>
 <a href="https://github.com/alban-okoby/alban-okoby">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alban-okoby&theme=highcontrast&show_icons=true&hide=html&langs_count=8&layout=donut" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alban-okoby&theme=highcontrast&show_icons=true&hide=html,css&langs_count=8&layout=donut" />
 </a>
 
 ## Some Public Projects
